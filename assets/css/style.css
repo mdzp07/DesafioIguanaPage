@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body {
+    width: 1280px;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    height: 73px;
+    margin: auto;
+}
+
+.banner {
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.historia {
+    background-color: black;
+    margin-top: -5px;
+}
+
+.historia div {
+    display: inline-block;
+}
+
+.historia img {
+    width: 399px;
+    padding-left: 53px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.texto {
+    width: 475px;
+    text-align: left;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    padding-left: 150px;
+    padding-bottom: 50px;
+    padding-right: 53px;
+    padding-top: 100px;
+    vertical-align: top;
+}
+
+.caracteristicas {
+    background-color: #1E1A13;
+}
+
+.caracteristicas .titulo {
+    color: white;
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    padding-top: 75px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.caracteristicas .contenedor {
+
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    color: white;
+}
+
+.contenedor p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 16px;
+}
+
+.iconos {
+    padding-bottom: 74px;
+    text-align: center;
+}
+
+.galeria {
+    background-color: black;
+    height: 348px;
+}
+
+.galeria div {
+    display: inline;
+    text-align: center;
+    width: 30%;
+}
+
+.imagenes img {
+    width: 316px;
+    height: 202px;
+    padding-top: 73px;
+
+}
+
+.imagen2 {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.imagenes {
+    padding-left: 150px;
+}
+
+footer {
+    background-color: #1E1A13;
+    height: 102px;
+}
+
+.final {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+a {
+    color: white;
+}
